@@ -17,7 +17,7 @@
 Olio is a fun collage tool designed to let you take and manipulate webcam photos and add a curated selection of props to to your creations.  You can resize, stretch, and warp your photos and then save, add, or update your creations.  Take a screenshot, and share with your friends!
 
 ## USAGE
-Everything is packaged and ready to go. Run the following to run it locally
+Everything is packaged and ready to go. Run the following to run this application locally
 
 - ` npm install `
 - ` npm start `
