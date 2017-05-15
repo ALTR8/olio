@@ -20,3 +20,4 @@ Olio is a fun collage tool designed to let you take and manipulate webcam photos
 Everything is packaged and ready to go. Run the following to run it locally
 
 ` npm install `
+` npm start `
